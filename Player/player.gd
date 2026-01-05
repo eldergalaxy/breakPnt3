@@ -34,4 +34,4 @@ func _process(delta: float) -> void:
 		
 		
 	
-	#move_and_slide() 
+	move_and_slide() 
